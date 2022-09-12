@@ -37,6 +37,12 @@ body {
 	scrollbar-width: none;
 }
 
+#heading-img{
+	position: sticky;
+	top: 10px;
+	left: 30%;
+}
+
 .mBlog {
 	position: relative;
 	scroll-snap-align: start;
@@ -44,6 +50,7 @@ body {
 
 #auth{
 	margin-top: 40px;
+	margin-left: 40%;
 	color: #ffdada;
 }
 
