@@ -1,7 +1,7 @@
 // by অম্লান সাহা কুন্ডু
 const x = {
     "title": "খেরোর খাতা",
-    "apiKey": "7bf7e33cb04544e1cdb7",
+    "apiKey": "16bcfd8d6083cbfa4783",
     "author": "অম্লান সাহা কুন্ডু",
     "showAuth" : false,
     "totalPost": 18,
