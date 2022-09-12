@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;900&display=swap');
-@import url('https://fonts.maateen.me/charukola-ultra-light/font.css');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@100;200;300;400;500;600;900&display=swap');
 
 * {
 	margin: 0;
@@ -16,7 +16,7 @@ body {
 	height: 100vh;
 	display: grid;
 	place-items: center;
-	font-family: "kalpurush", "Montserrat";
+	font-family:'Courier New', 'Montserrat', monospace;
 }
 
 #app {
@@ -40,6 +40,8 @@ body {
 .mBlog {
 	position: relative;
 	scroll-snap-align: start;
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 #auth{
@@ -141,7 +143,7 @@ marquee {
 }
 
 .blogText {
-	font-family: "CharukolaUltraLight","Montserrat",sans-serif;
+	font-family:'Courier New', 'Montserrat', monospace;
 	position: absolute;
 	top: 30%;
 	left: 40px;
@@ -157,7 +159,7 @@ marquee {
 	left: 10%;
 	z-index: 4000;
 	width: 80%;
-	font-family: "CharukolaUltraLight";
+	font-family: 'Courier New', 'Montserrat', monospace;
 	padding: 10px;
 	text-align: center;
 

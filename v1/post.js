@@ -1,6 +1,6 @@
 // by Amlan Saha Kundu
 const x = {
-    "title": "BlogTok",
+    "title": "Blog Tok",
     "apiKey": "0a3a4b5751a00a13d6d0",
     "author": "L. Ipsum",
     "showAuth" : true,
