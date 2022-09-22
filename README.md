@@ -7,3 +7,14 @@ BlogTok is a microblogging site, inspired by Tiktok and created by Amlan Saha Ku
 --- 
 
 ![SS1](https://i.imgur.com/2pZu35s.png)
+
+---
+
+### Roadmap
+
+- [x] Adding like counter
+- [x] Changing to simpler custom JS architecture
+- [ ] Improve load time
+- [ ] Cleaner look
+- [ ] Adding Comment Section
+- [ ] About the author page
